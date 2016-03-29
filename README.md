@@ -16,27 +16,17 @@ attractive and effective way to share their work with clients.
 
 
 ####Credits
-Psd Created by: Abdullah Noman
-
-Bootstrap
-
-jQuery
-
-Owl Carousel
-
-Animate.css
-
-MagnificPopup
-
-Font Awesome
-
-Smooth Scroll
-
-jQuery Waypoints 
-
-LocalScroll  
-
-WOW JS
+* Psd Created by: Abdullah Noman
+* Bootstrap
+* jQuery
+* Owl Carousel
+* Animate.css
+* MagnificPopup
+* Font Awesome
+* Smooth Scroll
+* jQuery Waypoints 
+* LocalScroll  
+* WOW JS
 
 
 
