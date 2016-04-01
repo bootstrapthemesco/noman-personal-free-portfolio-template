@@ -2,7 +2,7 @@
 
 
 
-####http://bootstrapthemes.co/item/personal-portfolio-template/
+####http://bootstrapthemes.co/item/noman-personal-portfolio-html-page-template/
 
 
 This is a fully Responsive, Professional & Personal template with scrolling page built to showcase your top-notch portfolios. 
